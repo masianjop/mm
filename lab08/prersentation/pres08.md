@@ -2,7 +2,7 @@
 ## Front matter
 lang: ru-RU
 title: Лабораторная работа номер 8
-author: Malkov Roman Sergeevich
+author: Куденко Максим
 date: 29.03.2024
 
 ## Formatting

@@ -2,7 +2,7 @@
 ## Front matter
 lang: ru-RU
 title: Лабораторная работа номер 2
-author: Malkov Roman Sergeevich
+author: Куденко Максим
 date: 01.06.2022
 
 ## Formatting

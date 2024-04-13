@@ -2,7 +2,7 @@
 ## Front matter
 lang: ru-RU
 title: Лабораторная работа номер 4
-author: Malkov Roman Sergeevich
+author: Куденко Максим
 date: 01.03.2024
 
 ## Formatting
